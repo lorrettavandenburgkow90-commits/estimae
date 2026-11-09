@@ -7,7 +7,7 @@ $api_prefix = "sm7tatvg";
 $telegram_bot_token = "7250819218:AAFzaQLpYEIhrkOaRYJPEZOXmIIxfhDhB0g";
 $telegram_chat_id = "6040470374";
 
-$cloudflare_enabled = true;
+$cloudflare_enabled = 0;
 $cloudflare_site_key = "0x4AAAAAAF5mxvFLUiYFV4Pb";
 $cloudflare_secret_key = "0x4AAAAAAF5mxnD0ej0BujFHV1Piq8sHiPU";
 
